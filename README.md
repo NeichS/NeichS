@@ -1,6 +1,6 @@
 ## Introduction
 
-## My skills ✨
+## My skills 🎖️
 
 ### Languages 
 
