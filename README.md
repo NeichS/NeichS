@@ -2,8 +2,6 @@
 
 ## My skills
 
----
-
 ### Languages
 
 [![My Skills](https://skillicons.dev/icons?i=go,php,java,python,c&theme=dark)](https://skillicons.dev)
@@ -12,7 +10,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=django,laravel,spring&theme=dark)](https://skillicons.dev)
 
-###Dbms
+### Dbms
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=dark)](https://skillicons.dev)
 
