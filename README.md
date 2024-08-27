@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ignacio Sanchez</h1>
-<h3 align="center">Developer from Argentina!</h3>
-
+<h3 align="center">Im a software developer from Argentina and im currently studying bachelors degree sistems! (3rd year)</h3>
+<h4 align="center"><h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neichs&label=Profile%20views&color=0e75b6&style=flat" alt="neichs" /> </p>
 
 - 🌱 I’m currently learning **Laravel, Go, C**
