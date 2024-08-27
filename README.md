@@ -1,16 +1,16 @@
-## Hi there 👋
+## Introduction
 
-## My skills
+## My skills ✨
 
-### Languages
+### Languages 
 
 [![My Skills](https://skillicons.dev/icons?i=go,php,java,python,c&theme=dark)](https://skillicons.dev)
 
-### Tools/Frameworks
+### Tools/Frameworks 🛠️
 
 [![My Skills](https://skillicons.dev/icons?i=django,laravel,spring&theme=dark)](https://skillicons.dev)
 
-### Dbms [Dbms](https://icons8.com/icon/1476/database)
+### Dbms 📄 
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=dark)](https://skillicons.dev)
 
