@@ -10,7 +10,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=django,laravel,spring&theme=dark)](https://skillicons.dev)
 
-### Dbms
+### Dbms [Dbms](https://icons8.com/icon/1476/database)
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=dark)](https://skillicons.dev)
 
