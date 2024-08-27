@@ -14,8 +14,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=dark)](https://skillicons.dev)
 
-
-[![NeichS's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeichS)](https://github.com/NeichS/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeichS&hide=html,NSIS&layout=donut-vertical)](https://github.com/NeichS/github-readme-stats)
 
 <!--
 **NeichS/NeichS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
