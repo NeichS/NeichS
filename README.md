@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=go,java,python,figma&theme=dark)](https://skillicons.dev)
+Languages
+[![My Skills](https://skillicons.dev/icons?i=go,php,java,python,c&theme=dark)](https://skillicons.dev)
+
+Tools/Frameworks
+[![My Skills](https://skillicons.dev/icons?i=django,laravel,spring&theme=dark)](https://skillicons.dev)
+
 
 <!--
 **NeichS/NeichS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
