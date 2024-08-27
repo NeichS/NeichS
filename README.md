@@ -14,6 +14,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=dark)](https://skillicons.dev)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeichS&hide=html,NSIS&layout=donut-vertical" />
+</a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeichS&hide=html,NSIS&layout=donut-vertical)](https://github.com/NeichS/github-readme-stats)
 
 <!--
