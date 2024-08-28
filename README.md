@@ -13,6 +13,11 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
