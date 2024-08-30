@@ -15,21 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   2 hrs 10 mins   ██████████████████████▒░░   89.24 %
-Go         15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
-Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Go         3 hrs 49 mins   ██████████▒░░░░░░░░░░░░░░   41.81 %
+Markdown   3 hrs 37 mins   ██████████░░░░░░░░░░░░░░░   39.49 %
+C          1 hr 13 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
+Makefile   26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+Other      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
-<!--END_SECTION:waka-->
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
