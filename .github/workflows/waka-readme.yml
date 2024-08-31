@@ -15,5 +15,5 @@ jobs:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_OS: "True"
-          SHOW_COMMIT: "True"
+          TIME_RANGE: "True"
+          CODE_LANG: "True"
