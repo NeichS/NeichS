@@ -15,7 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```True
-No activity tracked
+Go           41 mins         ███████████░░░░░░░░░░░░░░   43.72 %
+Astro        23 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.83 %
+Vue.js       14 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.73 %
+Markdown     8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
+JavaScript   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
 ```
 
 <!--END_SECTION:waka-->
