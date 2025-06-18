@@ -15,11 +15,8 @@
 <!--START_SECTION:waka-->
 
 ```True
-TypeScript   3 hrs 29 mins   ███████████████████████▓░   95.30 %
-GraphQL      7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-Go           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TypeScript   3 hrs 29 mins   █████████████████████████   99.98 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
