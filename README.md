@@ -15,7 +15,8 @@
 <!--START_SECTION:waka-->
 
 ```True
-TypeScript   3 hrs 3 mins    █████████████████████████   100.00 %
+TypeScript   3 hrs 3 mins    ███████████████████████░░   92.30 %
+Go           15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
 ```
 
 <!--END_SECTION:waka-->
