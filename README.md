@@ -15,8 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```True
-TOML   2 mins          ██████████████▓░░░░░░░░░░   58.95 %
-Go     1 min           ██████████▒░░░░░░░░░░░░░░   41.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
