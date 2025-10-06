@@ -15,10 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```True
-TeX            50 mins         █████████████████░░░░░░░░   67.47 %
-BibTeX         11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.20 %
-OpenEdge ABL   8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
-Markdown       4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
