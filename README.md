@@ -11,9 +11,15 @@
 </p>
 
 <!--START_SECTION:waka-->
+
 ```True
-No activity tracked
+Astro         7 hrs 56 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.45 %
+TypeScript    6 hrs 59 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.37 %
+Python        6 hrs 34 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.04 %
+PHP           4 hrs 48 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
+CSS           56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 ```
+
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
