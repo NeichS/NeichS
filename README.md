@@ -13,11 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```True
-Go                6 hrs 47 mins   ██████████░░░░░░░░░░░░░░░   40.47 %
-PHP               3 hrs 53 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.22 %
-Python            2 hrs 13 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
-TypeScript        1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
-Protocol Buffer   43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+Go                6 hrs 23 mins   ███████████▒░░░░░░░░░░░░░   44.88 %
+PHP               3 hrs 18 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.26 %
+Python            2 hrs 3 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 %
+TypeScript        1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+Protocol Buffer   39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
 ```
 
 <!--END_SECTION:waka-->
