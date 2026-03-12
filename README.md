@@ -13,11 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```True
-Go           43 mins               ████████████████░░░░░░░░░   63.80 %
-Other        8 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 %
-YAML         5 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
-TypeScript   4 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-Just         4 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
