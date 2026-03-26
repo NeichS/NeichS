@@ -1,5 +1,5 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi , I'm Nacho Sanchez</h1>
-<h3 align="center">Software dev from Argentina and im currently studying bachelors degree sistems! (4th year)</h3>
+<h3 align="center">Software dev from Argentina and im currently on my last year at bachelors degree sistems!</h3>
 <h4 align="center"><h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neichs&label=Profile%20views&color=0e75b6&style=flat" alt="neichs" /> </p>
 
