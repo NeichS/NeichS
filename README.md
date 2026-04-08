@@ -13,11 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```True
-Go           2 hrs 46 mins         █████████████████████▓░░░   86.27 %
-SQL          12 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
-Just         5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-Git Config   5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-Makefile     1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
