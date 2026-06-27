@@ -13,10 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```True
-Python     39 mins               ████████████░░░░░░░░░░░░░   48.04 %
-Markdown   31 mins               █████████▓░░░░░░░░░░░░░░░   38.42 %
-TeX        7 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
-CSV        3 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
