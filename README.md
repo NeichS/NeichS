@@ -13,11 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```True
-Astro        55 mins               ██████████████████▒░░░░░░   73.57 %
-TypeScript   7 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
-JavaScript   5 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
-Markdown     5 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
-HTML         2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
