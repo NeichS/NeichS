@@ -13,11 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```True
-TypeScript   3 hrs 37 mins         ███████████▒░░░░░░░░░░░░░   45.51 %
-JavaScript   1 hr 44 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.92 %
-Markdown     1 hr 29 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.68 %
-Astro        30 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-Other        13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+Markdown     1 hr 55 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.95 %
+JavaScript   1 hr 32 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.64 %
+TypeScript   1 hr 25 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
+Git Config   46 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
+Bash         45 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
 ```
 
 <!--END_SECTION:waka-->
