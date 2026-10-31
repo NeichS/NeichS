@@ -13,11 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```True
-Git Config   46 mins               █████░░░░░░░░░░░░░░░░░░░░   20.53 %
-Bash         45 mins               █████░░░░░░░░░░░░░░░░░░░░   20.00 %
-Markdown     44 mins               █████░░░░░░░░░░░░░░░░░░░░   19.52 %
-TOML         37 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.60 %
-Other        29 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
