@@ -13,8 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```True
-TypeScript   14 mins               ██████████████▓░░░░░░░░░░   58.32 %
-CSS          10 mins               ██████████▒░░░░░░░░░░░░░░   41.68 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
